@@ -16,3 +16,12 @@
 * Banco de dados com MySQL
 * HTM 5 e CSS 3
 * JavaScript for professional
+
+# Bandas de Metal
+
+* Foo Fighters
+* ManoWar
+* PowerWolf
+* Draconian
+* Iron Mainden
+* Judas Priest
