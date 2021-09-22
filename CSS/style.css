@@ -18,6 +18,12 @@ aside {
     
     
 }
+
+ul > li {
+    padding: 5px;
+    list-style-type: square;
+}
+
 .clear {
     clear: both;
 }
