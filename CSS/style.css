@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    padding: 50px;
+}
+
+
+aside {
+    display: block;
+    float: left;
+    width: 20%;
+    height: 748px;
+    
+    
+}
+.clear {
+    clear: both;
+}
+
+section {
+    display: block;
+    height: 748px;
+}
